@@ -1,6 +1,6 @@
 # devops-capstone-project
 
-![Build Status](https://github.com/YOUR_GITHUB_USERNAME/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/Tanuja-260906/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 Capstone project: a Customer Accounts REST microservice built with Flask, tested with TDD, and deployed with CI/CD to Kubernetes.
 
