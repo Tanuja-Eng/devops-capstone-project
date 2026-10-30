@@ -1,0 +1,9 @@
+.git
+.github
+.devcontainer
+tests
+tekton
+deploy
+__pycache__
+*.pyc
+.coverage
